@@ -59,7 +59,7 @@ https://authority-engine-r9l.vercel.app
 
 LinkedIn
 
-https://www.linkedin.com/in/your-linkedin-url
+https://www.linkedin.com/in/lam-teck-sing-andrew-79886719
 
 GitHub
 
