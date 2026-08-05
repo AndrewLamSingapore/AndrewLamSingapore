@@ -1,70 +1,51 @@
 # Andrew Lam
 
-Building resilient operations through data, AI, and execution.
+## Operations & Supply Chain Leader
+
+Building resilient operations through Data Analytics, AI Automation, and Continuous Improvement.
 
 ---
 
-## 👋 About Me
+## Areas of Expertise
 
-I'm an Operations & Supply Chain professional passionate about operational excellence, logistics, warehouse optimisation, data analytics, and artificial intelligence.
-
-I enjoy building practical AI-powered solutions that improve decision-making, efficiency, and execution.
+- Supply Chain Operations
+- Warehouse Optimisation
+- Data Analytics
+- AI Automation
+- Process Improvement
+- Executive Dashboards
 
 ---
 
-## 🚀 Authority Engine
-
-Authority Engine is my executive portfolio showcasing my professional experience, leadership journey, AI projects, and insights.
+## Featured Portfolio
 
 🌐 Portfolio
+https://authority-engine-app.vercel.app
 
-https://authority-engine-r9l.vercel.app
-
----
-
-## 💼 Core Expertise
-
-- Operations Leadership
-- Supply Chain Management
-- Logistics
-- Cold Chain Operations
-- Data Analytics
-- Business Process Improvement
-- Artificial Intelligence
-- Continuous Improvement
+💼 LinkedIn
+https://linkedin.com/in/lam-teck-sing-andrew-79886719
 
 ---
 
-## 🤖 Current Projects
+## Current Focus
 
-- Authority Engine
-- Executive AI Portfolio
-- AI Automation
-- Data Analytics
-- Personal Knowledge Systems
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI
-- Automation
-- GitHub
-- Vercel
+- AI for Operations
+- Business Intelligence
+- Executive Dashboards
+- Practical Automation
 - Modern Web Development
 
 ---
 
-## 📫 Connect
+## Featured Project
 
-LinkedIn
+🚀 Authority Engine
 
-https://www.linkedin.com/in/lam-teck-sing-andrew-79886719
+Executive portfolio featuring:
 
-GitHub
+- Operations case studies
+- AI projects
+- Analytics frameworks
+- Executive leadership articles
 
-https://github.com/AndrewLamSingapore
-
-Portfolio
-
-https://authority-engine-r9l.vercel.app
+https://authority-engine-app.vercel.app
