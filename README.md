@@ -1,16 +1,70 @@
-## Hi there 👋
+# Andrew Lam
 
-<!--
-**AndrewLamSingapore/AndrewLamSingapore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building resilient operations through data, AI, and execution.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I'm an Operations & Supply Chain professional passionate about operational excellence, logistics, warehouse optimisation, data analytics, and artificial intelligence.
+
+I enjoy building practical AI-powered solutions that improve decision-making, efficiency, and execution.
+
+---
+
+## 🚀 Authority Engine
+
+Authority Engine is my executive portfolio showcasing my professional experience, leadership journey, AI projects, and insights.
+
+🌐 Portfolio
+
+https://authority-engine-r9l.vercel.app
+
+---
+
+## 💼 Core Expertise
+
+- Operations Leadership
+- Supply Chain Management
+- Logistics
+- Cold Chain Operations
+- Data Analytics
+- Business Process Improvement
+- Artificial Intelligence
+- Continuous Improvement
+
+---
+
+## 🤖 Current Projects
+
+- Authority Engine
+- Executive AI Portfolio
+- AI Automation
+- Data Analytics
+- Personal Knowledge Systems
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI
+- Automation
+- GitHub
+- Vercel
+- Modern Web Development
+
+---
+
+## 📫 Connect
+
+LinkedIn
+
+https://www.linkedin.com/in/your-linkedin-url
+
+GitHub
+
+https://github.com/AndrewLamSingapore
+
+Portfolio
+
+https://authority-engine-r9l.vercel.app
