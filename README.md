@@ -49,3 +49,8 @@ Executive portfolio featuring:
 - Executive leadership articles
 
 https://authority-engine-app.vercel.app
+---
+
+### Credit
+
+**Rabeet Ahmad** — contributed to building the overall website.
