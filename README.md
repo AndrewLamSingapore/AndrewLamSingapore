@@ -53,4 +53,4 @@ https://authority-engine-app.vercel.app
 
 ### Credit
 
-**Rabeet Ahmad** — contributed to building the overall website.
+**Rabeet Ahmad** — built the overall website.
