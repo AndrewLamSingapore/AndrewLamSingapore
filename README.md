@@ -1,56 +1,43 @@
-# Andrew Lam
+# Lam Teck Sing Andrew
 
-## Operations & Supply Chain Leader
+### Operations Excellence · Supply Chain · Business Analytics
 
-Building resilient operations through Data Analytics, AI Automation, and Continuous Improvement.
+I combine more than 20 years of hands-on experience across cold-chain warehousing, grocery distribution, container operations and international freight forwarding with Power BI and business analytics.
 
----
+My focus is practical: understand the workflow, identify root causes, improve the process and measure the result.
 
-## Areas of Expertise
+[Portfolio](https://authority-engine-app.vercel.app) · [LinkedIn](https://linkedin.com/in/lam-teck-sing-andrew-79886719)
 
-- Supply Chain Operations
-- Warehouse Optimisation
-- Data Analytics
-- AI Automation
-- Process Improvement
-- Executive Dashboards
+## Verified project evidence
 
----
+| Project | Evidence | Focus |
+|---|---:|---|
+| Live Container Operations Dashboard | 391 jobs · 7 reporting periods · S$75,720 recorded revenue | Operational performance and management reporting |
+| Cold Chain Risk Intelligence | 1,800 synthetic records · 6 warehouse zones | Earlier operational-risk detection |
+| Supply Chain Control Tower | Early-warning concept | Supplier, inventory and operational visibility |
 
-## Featured Portfolio
+## Core strengths
 
-🌐 Portfolio
-https://authority-engine-app.vercel.app
+- Operations excellence and process improvement
+- Supply chain, warehouse and cold-chain operations
+- Root-cause analysis and workflow redesign
+- Inventory control, manpower and container planning
+- KPI design, Power BI and management reporting
+- Operational risk identification and early-warning analytics
 
-💼 LinkedIn
-https://linkedin.com/in/lam-teck-sing-andrew-79886719
+## Current development
 
----
+I am completing the BCG RISE Business and Data Analytics programme, with expected completion on **9 October 2026**. I have passed the Power BI assessment; SQL, Python and machine-learning capabilities remain in active development.
 
-## Current Focus
+## Repositories
 
-- AI for Operations
-- Business Intelligence
-- Executive Dashboards
-- Practical Automation
-- Modern Web Development
+- [authority-engine](https://github.com/AndrewLamSingapore/authority-engine) — recruiter-facing operations and analytics portfolio
+- [open-aqua](https://github.com/AndrewLamSingapore/open-aqua) — open blueprint for earlier aquatic ecosystem risk detection
 
----
+## Target opportunities
 
-## Featured Project
+Operations Excellence · Process Improvement · Supply Chain Analytics · Operations Analysis · Warehouse and Logistics Operations — Singapore
 
-🚀 Authority Engine
+### Website credit
 
-Executive portfolio featuring:
-
-- Operations case studies
-- AI projects
-- Analytics frameworks
-- Executive leadership articles
-
-https://authority-engine-app.vercel.app
----
-
-### Credit
-
-**Rabeet Ahmad** — built the overall website.
+Initial website build by **Rabeet Ahmad**; content and positioning maintained by Andrew Lam.
