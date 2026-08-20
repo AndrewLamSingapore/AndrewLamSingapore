@@ -1,10 +1,10 @@
 # Lam Teck Sing Andrew
 
-### Operations Excellence · Supply Chain · Business Analytics
+### Operations Excellence · Supply Chain · Power BI & Business Analytics
 
-I combine more than 20 years of hands-on experience across cold-chain warehousing, grocery distribution, container operations and international freight forwarding with Power BI and business analytics.
+Operational problems cost time, margin and trust before the dashboard turns red.
 
-My focus is practical: understand the workflow, identify root causes, improve the process and measure the result.
+I combine more than 20 years of hands-on experience across cold-chain warehousing, grocery distribution, container operations and international freight forwarding with Power BI and business analytics. My focus is practical: expose risk earlier, understand the workflow, identify root causes, improve the process and measure the result.
 
 [Portfolio](https://authority-engine-app.vercel.app) · [LinkedIn](https://linkedin.com/in/lam-teck-sing-andrew-79886719)
 
@@ -12,9 +12,9 @@ My focus is practical: understand the workflow, identify root causes, improve th
 
 | Project | Evidence | Focus |
 |---|---:|---|
-| Live Container Operations Dashboard | 391 jobs · 7 reporting periods · S$75,720 recorded revenue | Operational performance and management reporting |
-| Cold Chain Risk Intelligence | 1,800 synthetic records · 6 warehouse zones | Earlier operational-risk detection |
-| Supply Chain Control Tower | Early-warning concept | Supplier, inventory and operational visibility |
+| Live Container Operations Dashboard | Anonymised operational evidence: 391 jobs · 7 reporting periods · S$75,720 recorded revenue | Operational performance and management reporting |
+| Cold Chain Risk Intelligence | AI-assisted synthetic demonstration: 1,800 records · 6 warehouse zones | Earlier operational-risk detection |
+| Supply Chain Control Tower | AI-assisted synthetic early-warning concept | Supplier, inventory and operational visibility |
 
 ## Core strengths
 
@@ -27,7 +27,7 @@ My focus is practical: understand the workflow, identify root causes, improve th
 
 ## Current development
 
-I am completing the BCG RISE Business and Data Analytics programme, with expected completion on **9 October 2026**. I have passed the Power BI assessment; SQL, Python and machine-learning capabilities remain in active development.
+I am completing the BCG RISE Business and Data Analytics programme, with expected completion on **9 October 2026**. I have completed the Excel, SQL and Power BI modules and passed the Power BI assessment. Python and machine-learning capabilities remain in active development.
 
 ## Repositories
 
