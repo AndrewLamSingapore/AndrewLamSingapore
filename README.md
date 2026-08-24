@@ -1,106 +1,117 @@
 # Andrew Lam
 
-## From Operations → Intelligence
+## I build intelligence systems for real-world operations.
 
-**Operations Intelligence Builder · 20+ Years of Operations × Data × AI · Singapore**
+**20+ years in operations → Data → AI → earlier signals, better decisions, measurable action**
 
-I build systems that turn operational complexity into **earlier signals, better decisions and measurable action**.
+My foundation is hands-on work across cold-chain warehousing, grocery distribution, container operations and international freight forwarding. I now turn that operating context into analytical systems, decision tools and experiments.
 
-My foundation is more than 20 years of hands-on work across cold-chain warehousing, grocery distribution, container operations and international freight forwarding. I now combine that operating context with analytics, data and AI — not to make technology the story, but to make real systems easier to understand, test and improve.
+> **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-> **The question behind much of my work:** Can we see deterioration before the KPI turns red?
+[**Inspect the evidence → Authority Engine**](https://authority-engine-app.vercel.app) · [**Flagship build → Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) · [**Ideas → LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
-[**Authority Engine — inspect the evidence**](https://authority-engine-app.vercel.app) · [**LinkedIn — ideas & operating perspective**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+---
+
+## Operational Intelligence Loop
+
+**OBSERVE → CONNECT → ANTICIPATE → DECIDE → ACT → LEARN**
+
+I am interested in systems where individual signals are weak, but their relationships reveal something useful early enough to change an outcome.
+
+That pattern connects my work in logistics, cold chain, analytics and aquarium intelligence.
 
 ---
 
 ## THINK → PROVE → BUILD
 
-| Layer | Purpose | Go there |
+| Layer | Purpose | Evidence |
 |---|---|---|
-| **THINK** | Operational judgement, systems thinking and public ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
-| **PROVE** | Case studies, evidence, dashboards and decision frameworks | [Authority Engine](https://authority-engine-app.vercel.app) |
-| **BUILD** | Code, experiments, prototypes and evolving technical evidence | [GitHub](https://github.com/AndrewLamSingapore) |
+| **THINK** | Operational judgement, systems thinking, public ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
+| **PROVE** | Case studies, dashboards, analytical evidence | [Authority Engine](https://authority-engine-app.vercel.app) |
+| **BUILD** | Products, code, experiments, technical evidence | [GitHub](https://github.com/AndrewLamSingapore) |
 
-This profile is the **BUILD directory** of that system.
+GitHub is the **BUILD layer** — where claims should become inspectable systems.
 
 ---
 
-## Flagship build — Open Aqua
+# Flagship — Open Aqua
 
-### Can cheap continuous signals predict aquarium risk better than periodic testing alone?
+### Can inexpensive continuous signals detect developing aquarium risk earlier than periodic testing alone?
 
-[**Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) is an open experimental programme exploring whether relational sensor fusion can identify developing freshwater-aquarium risk earlier or more meaningfully than periodic testing by itself.
+[**Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) is an iPhone-first freshwater digital-twin product and a governed physical sensor-fusion experiment.
 
-The physical prototype North Star is deliberately constrained:
+The physical prototype North Star:
 
-> **Build the cheapest experimental instrument capable of proving that sensor fusion predicts aquarium risk better than periodic testing alone.**
+> **Build the cheapest experimental instrument capable of testing whether sensor fusion predicts aquarium risk better than periodic testing alone.**
 
-Prototype V0 starts with inexpensive continuous **temperature + pH + conductivity/TDS** observations, periodic/reference chemistry and time-aware relationships. Continuous ammonia hardware is intentionally deferred unless evidence shows it is necessary to test the hypothesis.
+Prototype V0 begins with continuous **temperature + pH + conductivity/TDS**, periodic/reference chemistry and time-aware relationships. Continuous ammonia hardware is deferred unless evidence shows it is necessary.
 
-This is not presented as a finished consumer product or a proven scientific result. The repository separates governing decisions, implementation state and experimental evidence.
+**Current evidence level: working product prototype + governed experiment design. The sensor-fusion hypothesis is not yet scientifically validated.**
 
 [Explore Open Aqua →](https://github.com/AndrewLamSingapore/open-aqua)
 
 ---
 
-## Operational evidence
+## Selected systems
 
-| Work | Evidence | What it tests |
-|---|---:|---|
-| **Live Container Operations Dashboard** | 391 anonymised jobs · 7 reporting periods · S$75,720 recorded revenue | Turning operating records into management visibility |
-| **Cold-Chain Risk Intelligence** | 1,800 AI-assisted synthetic records · 6 warehouse zones | Whether multiple weak signals can surface risk earlier |
-| **Supply Chain Control Tower** | AI-assisted synthetic early-warning concept | Connecting supplier, inventory and operating signals |
-| **Open Aqua** | Open prototype + governed experiment design | Whether cheap sensor fusion can outperform periodic testing alone |
+| System | Role | Evidence boundary |
+|---|---|---|
+| **[Open Aqua](https://github.com/AndrewLamSingapore/open-aqua)** | Freshwater digital twin + sensor-fusion experiment | Working prototype; physical hypothesis not yet validated |
+| **[Authority Engine](https://github.com/AndrewLamSingapore/authority-engine)** | Operations intelligence evidence hub | Anonymised operational evidence + clearly labelled synthetic demonstrations |
+| **[The Portal](https://github.com/AndrewLamSingapore/the-portal)** | AI-curated archive of futures imagined before they arrived | Working software experiment; not a historical authority |
 
-**Evidence discipline matters:** anonymised operational evidence, synthetic demonstrations, prototypes and hypotheses are labelled differently. A documented idea is not treated as a shipped capability, and a prototype is not treated as proof until it generates evidence.
+### Operational evidence behind the portfolio
 
----
-
-## How I work
-
-**Observe the real system → connect weak signals → test against evidence → turn insight into action.**
-
-Areas I bring together:
-
-- Operations excellence and process improvement
-- Supply chain, warehousing, logistics and cold-chain operations
-- Root-cause analysis and workflow redesign
-- Inventory, manpower and container planning
-- KPI design and management reporting
-- Power BI, SQL and analytical modelling
-- Operational risk and early-warning systems
-- AI-assisted experimentation and prototype development
+- **Live Container Operations Dashboard** — 391 anonymised jobs · 7 reporting periods · S$75,720 recorded revenue
+- **Cold-Chain Risk Intelligence** — 1,800 AI-assisted synthetic records · 6 warehouse zones
+- **Supply Chain Control Tower** — AI-assisted synthetic early-warning concept
+- **Open Aqua** — working product prototype + governed physical experiment design
 
 ---
 
-## Repositories
+## Evidence discipline
 
-### [authority-engine](https://github.com/AndrewLamSingapore/authority-engine)
-The **PROVE** layer: my public authority and evidence hub — operational case studies, analytical work, positioning and interactive demonstrations.
+I separate what is **observed**, **anonymised**, **synthetic**, **implemented**, **experimental** and **validated**.
 
-### [open-aqua](https://github.com/AndrewLamSingapore/open-aqua)
-A flagship **BUILD** layer: Singapore-first freshwater digital-twin/product work plus a governed physical sensor-fusion experiment.
+A useful shorthand:
 
-### [AndrewLamSingapore](https://github.com/AndrewLamSingapore/AndrewLamSingapore)
-This repository: the GitHub profile and directory connecting the public system.
+| Level | Meaning |
+|---|---|
+| **E0** | Concept / hypothesis |
+| **E1** | Synthetic or analytical demonstration |
+| **E2** | Working prototype |
+| **E3** | Real-world observations |
+| **E4** | Repeated validation |
+| **E5** | Production evidence at meaningful scale |
+
+These levels describe evidence maturity, not project quality. A project can contain evidence at several levels.
+
+> **A documented idea is not a shipped capability. A prototype is not proof. A model is not reality.**
 
 ---
 
-## Current development
+## What I bring together
 
-I am completing the **BCG RISE Business and Data Analytics programme**, with expected completion on **9 October 2026**. Excel, SQL and Power BI modules are completed and the Power BI assessment has been passed. Python and machine-learning capability remain in active development.
+**Operations** — supply chain · warehousing · cold chain · container planning · inventory · manpower · process improvement
 
-The positioning is intentional: **operations expertise first; technology as leverage.**
+**Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis
+
+**Intelligence systems** — early warning · weak-signal detection · AI-assisted experimentation · product prototyping · decision support
+
+My positioning is intentional: **operations expertise first; technology as leverage.**
 
 ---
 
-## Build in public, but label reality correctly
+## Current frontier
 
-I am interested in systems where operational experience, data and AI can create useful predictive advantage. Some work is production-facing, some is analytical demonstration, and some is deliberately experimental.
+I am deepening **Python, machine learning, predictive systems and physical sensing** while continuing to build from the operational domain outward.
 
-I would rather show the boundary clearly than inflate the claim.
+The goal is not to accumulate technologies. It is to become better at turning messy real-world systems into decisions that can be tested against evidence.
+
+---
+
+### Build in public. Label reality correctly.
 
 **Operations × Data × AI → earlier signals → better decisions → measurable action.**
 
-[Authority Engine](https://authority-engine-app.vercel.app) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) · [Open Aqua](https://github.com/AndrewLamSingapore/open-aqua)
+[Authority Engine](https://authority-engine-app.vercel.app) · [Open Aqua](https://github.com/AndrewLamSingapore/open-aqua) · [The Portal](https://github.com/AndrewLamSingapore/the-portal) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
