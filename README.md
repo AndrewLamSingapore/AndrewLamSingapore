@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://github.com/AndrewLamSingapore/velyqua">
+    <img src="https://raw.githubusercontent.com/AndrewLamSingapore/velyqua/main/assets/icon.svg" width="180" alt="VELYQUA 维澜 logo">
+  </a>
+</p>
+
+<h1 align="center">VELYQUA 维澜</h1>
+
+<p align="center"><strong>洞察微澜，守护水境。</strong></p>
+
 # Andrew Lam
 
 ## Operations intelligence built from real operating experience.
