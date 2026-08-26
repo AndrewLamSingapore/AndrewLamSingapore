@@ -4,90 +4,60 @@
 
 **20+ years in operations → data → AI → earlier signals → better decisions**
 
-I have spent more than two decades inside supply-chain, warehousing, cold-chain, container and logistics operations. I now use that operating context to build analytical systems, decision tools and experiments.
+I turn frontline experience in supply chain, warehousing, cold chain, container operations and logistics into inspectable analytical systems, decision tools and experiments.
 
 > **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Explore Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) · [**Enter The Portal**](https://github.com/AndrewLamSingapore/the-portal) · [**LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Explore Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
 ---
 
-## One operating method
+## What I am building
 
-**OBSERVE → CONNECT → ANTICIPATE → DECIDE → ACT → LEARN**
-
-The recurring pattern in my work is simple: individual signals can be weak, late or misleading; their relationships can reveal something useful earlier.
-
-I apply that idea across physical operations, analytics and experimental products.
-
-The Portal extends the same method into a broader discovery loop:
-
-**ENCOUNTER → CONNECT → EXPERIMENT → EVOLVE ↻**
-
-An encounter can be a system, object, book, exhibition, place, technology, operating observation or strange idea. The objective is not to collect it. The objective is to ask what it connects to, what that relationship might mean, and whether it produces something worth testing.
-
----
-
-## Selected work
-
-| Project | What it is | Evidence boundary |
+| Project | Purpose | Current evidence |
 |---|---|---|
-| **[Open Aqua](https://github.com/AndrewLamSingapore/open-aqua)** | iPhone-first freshwater digital twin + governed sensor-fusion experiment | **E2 product prototype**; physical early-warning hypothesis is not yet validated |
-| **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Public case studies, operating evidence and analytical demonstrations | Real operational evidence is separated from synthetic demonstrations |
-| **[The Portal](https://github.com/AndrewLamSingapore/the-portal)** | AI-assisted discovery + knowledge-graph experiment connecting encounters to concepts, questions and experiments | **E2 software prototype**; the broader living-graph direction is an evolving thesis; generated historical material requires independent verification |
+| **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Turns operating experience and analytical work into public, inspectable case studies | Operational evidence and synthetic demonstrations are labelled separately |
+| **[Open Aqua](https://github.com/AndrewLamSingapore/open-aqua)** | iPhone-first freshwater digital twin plus a governed sensor-fusion experiment | **E2 working product prototype**; physical early-warning hypothesis remains E0/E1 |
+| **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |
 
 ### Flagship: Open Aqua
 
 **Can inexpensive continuous signals detect developing aquarium risk earlier or more meaningfully than periodic testing alone?**
 
-Prototype V0 starts with continuous **temperature + pH + conductivity/TDS**, periodic/reference chemistry and time-aware relationships. The product already provides a local-first/cloud-enabled aquarium record system; the physical sensing hypothesis remains an experiment.
+Prototype V0 begins with continuous **temperature, pH and conductivity/TDS**, studied alongside periodic chemistry, care events and time-aware relationships.
 
-[Inspect the repository →](https://github.com/AndrewLamSingapore/open-aqua)
-
-### The Portal: an externalised map of connections
-
-**What becomes visible when discovery is organised around conceptual ancestry rather than engagement?**
-
-The Portal's long-term direction is not a conventional personal website. It is an explorable model of how encounters become connections, connections become experiments, and experiments change the graph.
-
-A fantasy artifact might connect to world-building → rules → simulation → emergent behaviour → AI agents → machine economies. An imagined ecosystem might connect to ecology → resource constraints → sensing → closed systems → Open Aqua.
-
-The connection is not treated as proof. It becomes valuable when it produces a better question or a testable experiment.
-
-[Explore The Portal →](https://github.com/AndrewLamSingapore/the-portal)
+[Inspect the code and experiment →](https://github.com/AndrewLamSingapore/open-aqua)
 
 ---
 
-## Evidence, not theatre
+## Operating thesis
 
-I separate **concepts, synthetic demonstrations, working software, real observations and validation**.
+**OBSERVE → CONNECT → ANTICIPATE → DECIDE → ACT → LEARN**
 
-| Level | Meaning |
-|---|---|
-| **E0** | Concept / hypothesis |
-| **E1** | Synthetic or analytical demonstration |
-| **E2** | Working prototype |
-| **E3** | Real-world observations |
-| **E4** | Repeated validation |
-| **E5** | Production evidence at meaningful scale |
+Individual signals can be weak, late or misleading. Their relationships can reveal something useful earlier.
 
-These levels describe evidence maturity, not project quality. One project can contain evidence at several levels.
-
-> **A documented idea is not a shipped capability. A prototype is not proof. A model is not reality.**
+That idea connects my work across physical operations, analytics and experimental products.
 
 ---
 
-## Operating evidence
+## Evidence already inspectable
 
-The public portfolio currently includes:
-
-- **391 anonymised container-operation jobs** across 7 reporting periods, representing **S$75,720 recorded revenue**
+- **391 anonymised container-operation jobs** across 7 reporting periods
+- **S$75,720 in recorded operational revenue**
 - **1,800 AI-assisted synthetic cold-chain risk records** across 6 warehouse zones
-- a transparent **synthetic multi-factor risk simulator** for exploring weighting and threshold behaviour — not a validated forecasting model
-- **Open Aqua**, a working product prototype plus governed physical experiment design
-- **The Portal**, a working discovery prototype and graph-ready archive for exploring conceptual ancestry and unresolved questions
+- A transparent synthetic multi-factor risk simulator — **not** presented as a validated forecasting model
+- Working software prototypes with explicit security, privacy and evidence boundaries
 
-The distinction between operational and synthetic evidence is deliberate.
+> A documented idea is not a shipped capability. A prototype is not proof. A model is not reality.
+
+---
+
+## Current build focus
+
+- Instrumenting the first **Open Aqua Edge** node around temperature, pH and conductivity/TDS
+- Strengthening local-first aquarium records, deterministic sync and owner-controlled data
+- Expanding The Portal from isolated artifacts toward an explorable knowledge graph
+- Converting operating experience into reusable early-warning and decision-support patterns
 
 ---
 
@@ -97,25 +67,23 @@ The distinction between operational and synthetic evidence is deliberate.
 
 **Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis
 
-**Intelligence systems** — weak-signal detection · early-warning hypotheses · knowledge graphs · conceptual ancestry · AI-assisted experimentation · product prototyping · decision support
+**Intelligence systems** — weak-signal detection · edge sensing · knowledge graphs · AI-assisted experimentation · product prototyping · decision support
 
-My positioning is intentional: **operations expertise first; technology as leverage.**
+**My positioning is intentional: operations expertise first; technology as leverage.**
 
 ---
 
-## THINK → PROVE → BUILD
+## Build in public
 
-| Layer | Purpose | Where |
+My public system has three layers:
+
+| Layer | Purpose | Destination |
 |---|---|---|
-| **THINK** | Operating perspective, encounters and public ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
+| **THINK** | Operating perspective and emerging ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
 | **PROVE** | Evidence, case studies and analytical demonstrations | [Operations Intelligence](https://authority-engine-app.vercel.app) |
-| **BUILD** | Code, products and experiments | [GitHub](https://github.com/AndrewLamSingapore) |
+| **BUILD** | Code, products and governed experiments | [GitHub](https://github.com/AndrewLamSingapore) |
 
-GitHub is the BUILD layer: where claims should become inspectable systems.
-
-The Portal adds a connective layer across all three: **encounters → relationships → questions → experiments → evidence**.
-
----
+Interested in **operations intelligence, supply-chain analytics, edge sensing, aquariums or evidence-led AI**? Explore a repository, open an issue or join a Discussion.
 
 ### Build in public. Label reality correctly. Let evidence upgrade the claim.
 
