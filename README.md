@@ -8,7 +8,7 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 
 > **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Explore Open Aqua**](https://github.com/AndrewLamSingapore/open-aqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Explore VELYQUA 维澜**](https://github.com/AndrewLamSingapore/velyqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
 ---
 
@@ -17,16 +17,18 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 | Project | Purpose | Current evidence |
 |---|---|---|
 | **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Turns operating experience and analytical work into public, inspectable case studies | Operational evidence and synthetic demonstrations are labelled separately |
-| **[Open Aqua](https://github.com/AndrewLamSingapore/open-aqua)** | iPhone-first freshwater digital twin plus a governed sensor-fusion experiment | **E2 working product prototype**; physical early-warning hypothesis remains E0/E1 |
+| **[VELYQUA 维澜](https://github.com/AndrewLamSingapore/velyqua)** | iPhone-first freshwater digital twin plus a governed sensor-fusion experiment | **E2 working product prototype**; physical early-warning hypothesis remains E0/E1 |
 | **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |
 
-### Flagship: Open Aqua
+### Flagship: VELYQUA 维澜
+
+**洞察微澜，守护水境。**
 
 **Can inexpensive continuous signals detect developing aquarium risk earlier or more meaningfully than periodic testing alone?**
 
 Prototype V0 begins with continuous **temperature, pH and conductivity/TDS**, studied alongside periodic chemistry, care events and time-aware relationships.
 
-[Inspect the code and experiment →](https://github.com/AndrewLamSingapore/open-aqua)
+[Inspect the code and experiment →](https://github.com/AndrewLamSingapore/velyqua)
 
 ---
 
@@ -54,7 +56,7 @@ That idea connects my work across physical operations, analytics and experimenta
 
 ## Current build focus
 
-- Instrumenting the first **Open Aqua Edge** node around temperature, pH and conductivity/TDS
+- Instrumenting the first **VELYQUA Edge** node around temperature, pH and conductivity/TDS
 - Strengthening local-first aquarium records, deterministic sync and owner-controlled data
 - Expanding The Portal from isolated artifacts toward an explorable knowledge graph
 - Converting operating experience into reusable early-warning and decision-support patterns
