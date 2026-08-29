@@ -92,6 +92,9 @@ My public system has three layers:
 | Layer | Purpose | Destination |
 |---|---|---|
 | **THINK** | Operating perspective and emerging ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
+
+
+<!-- Profile repository maintenance baseline: 2026-08-29. -->
 | **PROVE** | Evidence, case studies and analytical demonstrations | [Operations Intelligence](https://authority-engine-app.vercel.app) |
 | **BUILD** | Code, products and governed experiments | [GitHub](https://github.com/AndrewLamSingapore) |
 
