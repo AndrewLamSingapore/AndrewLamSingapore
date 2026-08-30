@@ -18,7 +18,7 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 
 > **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Explore VELYQUA 维澜**](https://github.com/AndrewLamSingapore/velyqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Open Game Platform**](https://game-platform-wine-nine.vercel.app/) · [**Explore VELYQUA 维澜**](https://github.com/AndrewLamSingapore/velyqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
 ---
 
@@ -28,7 +28,7 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 |---|---|---|
 | **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Turns operating experience and analytical work into public, inspectable case studies | Operational evidence and synthetic demonstrations are labelled separately |
 | **[VELYQUA 维澜](https://github.com/AndrewLamSingapore/velyqua)** | iPhone-first freshwater digital twin plus a governed sensor-fusion experiment | **E2 working product prototype**; physical early-warning hypothesis remains E0/E1 |
-| **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |
+| **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |\n| **[Game Platform](https://game-platform-wine-nine.vercel.app/)** | Persistent AI-native role-playing system with governed GM reasoning and server-authoritative state | **E2 working prototype**; multiplayer acceptance, retention and commercial viability remain unvalidated |
 
 ### Flagship: VELYQUA 维澜
 
@@ -68,7 +68,7 @@ That idea connects my work across physical operations, analytics and experimenta
 
 - Instrumenting the first **VELYQUA Edge** node around temperature, pH and conductivity/TDS
 - Strengthening local-first aquarium records, deterministic sync and owner-controlled data
-- Expanding The Portal from isolated artifacts toward an explorable knowledge graph
+- Expanding The Portal from isolated artifacts toward an explorable knowledge graph\n- Advancing Game Platform as an independently deployed, governed AI-world systems prototype
 - Converting operating experience into reusable early-warning and decision-support patterns
 
 ---
