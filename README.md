@@ -1,13 +1,3 @@
-<p align="center">
-  <a href="https://github.com/AndrewLamSingapore/velyqua">
-    <img src="https://raw.githubusercontent.com/AndrewLamSingapore/velyqua/main/assets/icon.svg" width="180" alt="VELYQUA 维澜 logo">
-  </a>
-</p>
-
-<h1 align="center">VELYQUA 维澜</h1>
-
-<p align="center"><strong>洞察微澜，守护水境。</strong></p>
-
 # Andrew Lam
 
 ## Operations intelligence built from real operating experience.
@@ -18,7 +8,7 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 
 > **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Open Game Platform**](https://game-platform-wine-nine.vercel.app/) · [**Explore VELYQUA 维澜**](https://github.com/AndrewLamSingapore/velyqua) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Open Game Platform**](https://game-platform-wine-nine.vercel.app/) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
 ---
 
@@ -27,20 +17,7 @@ I turn frontline experience in supply chain, warehousing, cold chain, container 
 | Project | Purpose | Current evidence |
 |---|---|---|
 | **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Turns operating experience and analytical work into public, inspectable case studies | Operational evidence and synthetic demonstrations are labelled separately |
-| **[VELYQUA 维澜](https://github.com/AndrewLamSingapore/velyqua)** | iPhone-first freshwater digital twin plus a governed sensor-fusion experiment | **E2 working product prototype**; physical early-warning hypothesis remains E0/E1 |
 | **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |\n| **[Game Platform](https://game-platform-wine-nine.vercel.app/)** | Persistent AI-native role-playing system with governed GM reasoning and server-authoritative state | **E2 working prototype**; multiplayer acceptance, retention and commercial viability remain unvalidated |
-
-### Flagship: VELYQUA 维澜
-
-**洞察微澜，守护水境。**
-
-**Can inexpensive continuous signals detect developing aquarium risk earlier or more meaningfully than periodic testing alone?**
-
-Prototype V0 begins with continuous **temperature, pH and conductivity/TDS**, studied alongside periodic chemistry, care events and time-aware relationships.
-
-[Inspect the code and experiment →](https://github.com/AndrewLamSingapore/velyqua)
-
----
 
 ## Operating thesis
 
@@ -66,8 +43,6 @@ That idea connects my work across physical operations, analytics and experimenta
 
 ## Current build focus
 
-- Instrumenting the first **VELYQUA Edge** node around temperature, pH and conductivity/TDS
-- Strengthening local-first aquarium records, deterministic sync and owner-controlled data
 - Expanding The Portal from isolated artifacts toward an explorable knowledge graph\n- Advancing Game Platform as an independently deployed, governed AI-world systems prototype
 - Converting operating experience into reusable early-warning and decision-support patterns
 
@@ -95,10 +70,10 @@ My public system has three layers:
 | **PROVE** | Evidence, case studies and analytical demonstrations | [Operations Intelligence](https://authority-engine-app.vercel.app) |
 | **BUILD** | Code, products and governed experiments | [GitHub](https://github.com/AndrewLamSingapore) |
 
-Interested in **operations intelligence, supply-chain analytics, edge sensing, aquariums or evidence-led AI**? Explore a repository, open an issue or join a Discussion.
+Interested in **operations intelligence, supply-chain analytics, governed AI systems or evidence-led product development**? Explore a repository, open an issue or join a Discussion.
 
 ### Build in public. Label reality correctly. Let evidence upgrade the claim.
 
 **Operations × Data × AI → earlier signals → better decisions → measurable action.**
 
-<!-- Profile repository maintenance baseline: 2026-08-29. -->
+<!-- Profile repository maintenance baseline: 2026-08-30; supersedes earlier public architecture descriptions. -->
