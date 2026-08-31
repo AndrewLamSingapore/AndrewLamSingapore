@@ -1,79 +1,62 @@
-# Andrew Lam
+<p align="center">
+  <a href="https://authority-engine-app.vercel.app/">
+    <img src="./assets/profile-banner.svg" alt="Andrew Lam — Operations Intelligence. Earlier signals. Better decisions." width="100%" />
+  </a>
+</p>
 
-## Operations intelligence built from real operating experience.
+## I turn complex operations into decisions that move.
 
-**20+ years in operations → data → AI → earlier signals → better decisions**
+I combine **20+ years in supply chain, warehousing, cold chain, container operations and frontline execution** with analytics and applied AI. The work here is built to surface risk earlier, make decisions more accountable and keep every claim tied to evidence.
 
-I turn frontline experience in supply chain, warehousing, cold chain, container operations and logistics into inspectable analytical systems, decision tools and experiments.
+> **My operating question:** Can we see deterioration before the KPI turns red?
 
-> **The question behind my work:** Can we see deterioration before the KPI turns red?
+[**Inspect the evidence →**](https://authority-engine-app.vercel.app/) · [**Explore the work →**](https://authority-engine-app.vercel.app/insights) · [**Start a conversation →**](https://authority-engine-app.vercel.app/contact)
 
-[**Inspect the evidence**](https://authority-engine-app.vercel.app) · [**Open Game Platform**](https://game-platform-wine-nine.vercel.app/) · [**Enter The Portal**](https://the-portal-ten.vercel.app) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+**Open to:** operations excellence leadership · operational analytics · serious collaborations in governed AI and early-warning systems
 
 ---
 
-## What I am building
+## Proof before promise
 
-| Project | Purpose | Current evidence |
+| **20+ years** | **391 jobs** | **S$75,720** | **1,800 scenarios** |
+|---|---|---|---|
+| Real operating experience | Anonymised container-operation records | Recorded revenue across 7 reporting periods | AI-assisted synthetic cold-chain risk records |
+
+Real operating evidence, controlled demonstrations and experimental products are labelled separately. **A prototype is not proof, and a model is not reality.**
+
+## Choose your route
+
+| If you want to… | Start here |
+|---|---|
+| Assess my operating depth and analytical capability | [**Open Authority Engine**](https://authority-engine-app.vercel.app/) |
+| Inspect the code, decisions and evidence boundaries | [**Explore the repositories**](https://github.com/AndrewLamSingapore?tab=repositories) |
+| Discuss an operations problem, role or collaboration | [**Start a conversation**](https://authority-engine-app.vercel.app/contact) |
+
+## Selected systems
+
+| System | What it demonstrates | Explore |
 |---|---|---|
-| **[Operations Intelligence Evidence Hub](https://authority-engine-app.vercel.app)** | Turns operating experience and analytical work into public, inspectable case studies | Operational evidence and synthetic demonstrations are labelled separately |
-| **[The Portal](https://the-portal-ten.vercel.app)** | AI-assisted discovery system connecting encounters to concepts, questions and experiments | **E2 software prototype**; generated historical material requires independent verification |\n| **[Game Platform](https://game-platform-wine-nine.vercel.app/)** | Persistent AI-native role-playing system with governed GM reasoning and server-authoritative state | **E2 working prototype**; multiplayer acceptance, retention and commercial viability remain unvalidated |
+| **Authority Engine** | An evidence-led portfolio connecting real operating experience with inspectable analytics and applied AI | [Live](https://authority-engine-app.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/authority-engine) |
+| **VELYQUA 维澜** | A governed freshwater digital-twin and sensor-fusion experiment for earlier aquarium-risk detection | [Live](https://velyqua.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/velyqua) |
+| **The Portal** | An AI-assisted knowledge system that turns encounters into connections, questions and testable experiments | [Live](https://the-portal-ten.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/the-portal) |
+| **Game Platform** | A persistent AI-native world with governed reasoning and server-authoritative state | [Experience](https://game-platform-wine-nine.vercel.app/) |
 
-## Operating thesis
+## The operating method
 
 **OBSERVE → CONNECT → ANTICIPATE → DECIDE → ACT → LEARN**
 
-Individual signals can be weak, late or misleading. Their relationships can reveal something useful earlier.
+Individual signals can be weak, late or misleading. Their relationships can reveal something useful earlier. That thesis connects my work across physical operations, analytics, edge sensing, knowledge systems and experimental products.
 
-That idea connects my work across physical operations, analytics and experimental products.
+**Operations** — supply chain · warehousing · cold chain · container planning · inventory · manpower · process improvement<br>
+**Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis<br>
+**Intelligence systems** — weak-signal detection · edge sensing · knowledge graphs · governed AI · product prototyping · decision support
 
----
+## Let’s compare notes
 
-## Evidence already inspectable
+If you are working on **operational decision support, supply-chain early warning, operations excellence or governed AI**, bring the real problem. I value useful exchanges, evidence-led collaboration and relationships that compound over time.
 
-- **391 anonymised container-operation jobs** across 7 reporting periods
-- **S$75,720 in recorded operational revenue**
-- **1,800 AI-assisted synthetic cold-chain risk records** across 6 warehouse zones
-- A transparent synthetic multi-factor risk simulator — **not** presented as a validated forecasting model
-- Working software prototypes with explicit security, privacy and evidence boundaries
+[**Start with the evidence**](https://authority-engine-app.vercel.app/) · [**Send a direct inquiry**](https://authority-engine-app.vercel.app/contact) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
-> A documented idea is not a shipped capability. A prototype is not proof. A model is not reality.
+<sub>Singapore · Operations expertise first; technology as leverage.</sub>
 
----
-
-## Current build focus
-
-- Expanding The Portal from isolated artifacts toward an explorable knowledge graph\n- Advancing Game Platform as an independently deployed, governed AI-world systems prototype
-- Converting operating experience into reusable early-warning and decision-support patterns
-
----
-
-## What I bring together
-
-**Operations** — supply chain · warehousing · cold chain · container planning · inventory · manpower · process improvement
-
-**Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis
-
-**Intelligence systems** — weak-signal detection · edge sensing · knowledge graphs · AI-assisted experimentation · product prototyping · decision support
-
-**My positioning is intentional: operations expertise first; technology as leverage.**
-
----
-
-## Build in public
-
-My public system has three layers:
-
-| Layer | Purpose | Destination |
-|---|---|---|
-| **THINK** | Operating perspective and emerging ideas | [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) |
-| **PROVE** | Evidence, case studies and analytical demonstrations | [Operations Intelligence](https://authority-engine-app.vercel.app) |
-| **BUILD** | Code, products and governed experiments | [GitHub](https://github.com/AndrewLamSingapore) |
-
-Interested in **operations intelligence, supply-chain analytics, governed AI systems or evidence-led product development**? Explore a repository, open an issue or join a Discussion.
-
-### Build in public. Label reality correctly. Let evidence upgrade the claim.
-
-**Operations × Data × AI → earlier signals → better decisions → measurable action.**
-
-<!-- Profile repository maintenance baseline: 2026-08-30; supersedes earlier public architecture descriptions. -->
+<!-- Public profile conversion baseline: 2026-08-31. -->
