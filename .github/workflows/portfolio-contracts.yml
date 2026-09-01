@@ -1,0 +1,31 @@
+name: Portfolio contracts
+
+on:
+  push:
+    branches: [main]
+    paths: ['portfolio-contracts/**', '.github/workflows/portfolio-contracts.yml']
+  pull_request:
+    paths: ['portfolio-contracts/**', '.github/workflows/portfolio-contracts.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  generated-contracts:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: portfolio-contracts
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run check
+      - name: JavaScript and CommonJS validator smoke
+        run: |
+          node --input-type=module -e "import('./generated/javascript/validators.js').then(v=>{if(v.validatePortfolioEvent({}).valid)process.exit(1)})"
+          node -e "const v=require('./generated/javascript/validators.cjs');if(v.validateActionEnvelope({}).valid)process.exit(1)"
+      - name: Python validator smoke
+        run: python -c "from generated.python.portfolio_contracts import validate_reasoning_output; assert not validate_reasoning_output({})['valid']"
