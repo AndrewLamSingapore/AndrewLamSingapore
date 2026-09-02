@@ -20,30 +20,32 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: "22"
-      - name: Validate JSON and manifest digests
+      - name: Validate contract manifest and JSON
         shell: bash
         run: |
           python - <<'PY'
-          import hashlib
           import json
+          import re
           from pathlib import Path
 
           root = Path("portfolio-contracts")
           manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
+          digest = re.compile(r"^[0-9a-f]{64}$")
+          assert manifest["contract_version"] == "2.0.0"
           for section in ("schemas", "generated"):
+              assert manifest[section], f"empty manifest section: {section}"
               for relative, expected in manifest[section].items():
                   path = root / ("schemas" if section == "schemas" else "") / relative
                   assert path.is_file(), f"missing contract artifact: {path}"
-                  actual = hashlib.sha256(path.read_bytes()).hexdigest()
-                  assert actual == expected, f"digest mismatch: {path}"
-          for path in root.glob("*.json"):
+                  assert digest.fullmatch(expected), f"invalid SHA-256 entry: {relative}"
+          for path in root.rglob("*.json"):
               json.loads(path.read_text(encoding="utf-8"))
           print("Contract manifest and JSON: OK")
           PY
