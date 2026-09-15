@@ -1,3 +1,5 @@
+> Portfolio authority: [one current JARVIS SSOT](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json). This document describes this repository only; it cannot override the canonical architecture or establish live deployment status.
+
 <p align="center">
   <a href="https://authority-engine-app.vercel.app/">
     <img src="./assets/profile-banner.svg" alt="Andrew Lam — Operations Intelligence. Earlier signals. Better decisions." width="100%" />
