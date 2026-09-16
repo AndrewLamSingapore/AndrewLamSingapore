@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Andrew Lam — Operations Intelligence</title>
-  <desc id="desc">Earlier signals and better decisions, built from more than twenty years of operating experience.</desc>
+  <desc id="desc">See operational risk earlier and decide with evidence, built from more than twenty years of frontline experience.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -49,11 +49,11 @@
     </g>
 
     <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
-      <text x="68" y="72" fill="#71ddd8" font-size="17" font-weight="700" letter-spacing="4.4">OPERATIONS × DATA × GOVERNED AI</text>
+      <text x="68" y="72" fill="#71ddd8" font-size="17" font-weight="700" letter-spacing="4.1">SUPPLY CHAIN × ANALYTICS × GOVERNED AI</text>
       <text x="64" y="151" fill="#f5fafc" font-size="62" font-weight="760" letter-spacing="-1.8">ANDREW LAM</text>
-      <text x="68" y="203" fill="#d8e8ed" font-size="27" font-weight="500">Operations intelligence built from real experience.</text>
-      <text x="68" y="246" fill="#9db6c1" font-size="21" font-weight="450">Earlier signals. Better decisions. Evidence before promise.</text>
-      <text x="68" y="307" fill="#f2b84b" font-size="14" font-weight="700" letter-spacing="3.2">SINGAPORE  ·  BUILDING IN PUBLIC</text>
+      <text x="68" y="203" fill="#d8e8ed" font-size="27" font-weight="560">See operational risk earlier. Decide with evidence.</text>
+      <text x="68" y="246" fill="#9db6c1" font-size="20" font-weight="450">20+ years of frontline operations turned into practical intelligence.</text>
+      <text x="68" y="307" fill="#f2b84b" font-size="14" font-weight="700" letter-spacing="2.8">SINGAPORE  ·  OPEN TO LEADERSHIP &amp; COLLABORATION</text>
     </g>
 
     <rect x="0" y="0" width="8" height="340" fill="#42d7d0"/>

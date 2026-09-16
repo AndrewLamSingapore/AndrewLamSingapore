@@ -6,15 +6,15 @@
   </a>
 </p>
 
-## Complex operations. Clearer decisions. Real possibilities.
+## I help complex operations see risk earlier—and decide with evidence.
 
-I combine **20+ years in supply chain, warehousing, cold chain, container operations and frontline execution** with analytics and applied AI. The work here is built to surface risk earlier, make decisions more accountable and keep every claim tied to evidence.
+I combine **20+ years in supply chain, warehousing, cold chain, container operations and frontline execution** with analytics and applied AI. I build practical intelligence for leaders who need earlier warning, clearer trade-offs and decisions they can defend.
 
-> **My operating question:** Can we see deterioration before the KPI turns red?
+> **The question behind my work:** Can we see deterioration before the KPI turns red?
 
-[**Inspect the evidence →**](https://authority-engine-app.vercel.app/) · [**Explore the work →**](https://authority-engine-app.vercel.app/insights) · [**Start a conversation →**](https://authority-engine-app.vercel.app/contact?source=github)
+[**See the evidence →**](https://authority-engine-app.vercel.app/) · [**Explore the casework →**](https://authority-engine-app.vercel.app/insights) · [**Discuss a real problem →**](https://authority-engine-app.vercel.app/contact?source=github)
 
-**Open to:** operations excellence leadership · operational analytics · serious collaborations in governed AI and early-warning systems
+**Open to:** operations leadership · operational transformation · analytics and early-warning systems · serious governed-AI collaborations
 
 ---
 
@@ -30,7 +30,7 @@ Real operating evidence, controlled demonstrations and experimental products are
 
 | If you want to… | Start here |
 |---|---|
-| Assess my operating depth and analytical capability | [**Open Authority Engine**](https://authority-engine-app.vercel.app/) |
+| Assess my operating depth and analytical capability | [**Review the evidence in Authority Engine**](https://authority-engine-app.vercel.app/) |
 | Inspect the code, decisions and evidence boundaries | [**Explore the repositories**](https://github.com/AndrewLamSingapore?tab=repositories) |
 | Discuss an operations problem, role or collaboration | [**Start a conversation**](https://authority-engine-app.vercel.app/contact?source=github) |
 
@@ -42,7 +42,6 @@ Real operating evidence, controlled demonstrations and experimental products are
 | **VELYQUA 维澜** | Software-first, hardware-agnostic water intelligence; observation quality and real-water validation are evidence-gated | [Live](https://velyqua.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/velyqua) |
 | **The Portal** | An AI-assisted knowledge system that turns encounters into connections, questions and testable experiments | [Live](https://the-portal-ten.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/the-portal) |
 | **Living Worlds** | A persistent AI-native world with governed reasoning and server-authoritative state | [Experience](https://game-platform-wine-nine.vercel.app/) |
-
 | **The Sky Tablet** | Interactive exploration of Mesopotamian astronomy and cuneiform, with explicit scholarly limits | [Explore](https://sky-tablet.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/sky-tablet) |
 
 ## The operating method
@@ -55,12 +54,12 @@ Individual signals can be weak, late or misleading. Their relationships can reve
 **Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis<br>
 **Intelligence systems** — weak-signal detection · edge sensing · knowledge graphs · governed AI · product prototyping · decision support
 
-## Let’s compare notes
+## Bring me the difficult operating problem.
 
-If you are working on **operational decision support, supply-chain early warning, operations excellence or governed AI**, bring the real problem. I value useful exchanges, evidence-led collaboration and relationships that compound over time.
+If you are working on **operational decision support, supply-chain early warning, operations excellence or governed AI**, I want to hear the real constraint—not the polished version. I value useful exchanges, evidence-led collaboration and relationships that compound over time.
 
-[**Start with the evidence**](https://authority-engine-app.vercel.app/) · [**Send a direct inquiry**](https://authority-engine-app.vercel.app/contact?source=github) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+[**Review my evidence**](https://authority-engine-app.vercel.app/) · [**Send a direct inquiry**](https://authority-engine-app.vercel.app/contact?source=github) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
 <sub>Singapore · Operations expertise first; technology as leverage.</sub>
 
-<!-- Public profile conversion baseline: 2026-08-31. -->
+<!-- Public profile conversion baseline: 2026-09-16. -->
