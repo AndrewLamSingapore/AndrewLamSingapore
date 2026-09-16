@@ -14,6 +14,8 @@ I combine **20+ years in supply chain, warehousing, cold chain, container operat
 
 [**See the evidence →**](https://authority-engine-app.vercel.app/) · [**Explore the casework →**](https://authority-engine-app.vercel.app/insights) · [**Discuss a real problem →**](https://authority-engine-app.vercel.app/contact?source=github)
 
+[**Try the JARVIS PRIME decision walkthrough →**](https://authority-engine-app.vercel.app/jarvis?utm_source=github&utm_medium=profile)
+
 **Open to:** operations leadership · operational transformation · analytics and early-warning systems · serious governed-AI collaborations
 
 ---
@@ -38,6 +40,7 @@ Real operating evidence, controlled demonstrations and experimental products are
 
 | System | What it demonstrates | Explore |
 |---|---|---|
+| **JARVIS PRIME** | Try an illustrative decision walkthrough and inspect a 21-role AI coordination design; current ABEX runtime acceptance remains unverified | [Explore](https://authority-engine-app.vercel.app/jarvis) · [Discuss a use case](https://authority-engine-app.vercel.app/contact?source=jarvis&intent=collaboration) |
 | **Authority Engine** | An evidence-led portfolio connecting real operating experience with inspectable analytics and applied AI | [Live](https://authority-engine-app.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/authority-engine) |
 | **VELYQUA 维澜** | Software-first, hardware-agnostic water intelligence; observation quality and real-water validation are evidence-gated | [Live](https://velyqua.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/velyqua) |
 | **The Portal** | An AI-assisted knowledge system that turns encounters into connections, questions and testable experiments | [Live](https://the-portal-ten.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/the-portal) |
@@ -63,3 +66,4 @@ If you are working on **operational decision support, supply-chain early warning
 <sub>Singapore · Operations expertise first; technology as leverage.</sub>
 
 <!-- Public profile conversion baseline: 2026-09-16. -->
+
