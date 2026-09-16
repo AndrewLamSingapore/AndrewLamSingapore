@@ -1,5 +1,3 @@
-> Portfolio authority: [one current JARVIS SSOT](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json). This document describes this repository only; it cannot override the canonical architecture or establish live deployment status.
-
 <p align="center">
   <a href="https://authority-engine-app.vercel.app/">
     <img src="./assets/profile-banner.svg" alt="Andrew Lam — Operations Intelligence. Earlier signals. Better decisions." width="100%" />
@@ -19,6 +17,14 @@ I combine **20+ years in supply chain, warehousing, cold chain, container operat
 **Open to:** operations leadership · operational transformation · analytics and early-warning systems · serious governed-AI collaborations
 
 ---
+
+## Start with a sky. Stay for a conversation.
+
+[![The Sky Tablet — explore an ancient city and its night sky](https://raw.githubusercontent.com/AndrewLamSingapore/sky-tablet/main/sky-atmosphere.webp)](https://sky-tablet.vercel.app/)
+
+**[Enter The Sky Tablet →](https://sky-tablet.vercel.app/)** — a cinematic journey from clay tablets to an open sky. One of my experiments in making complex ideas tangible.
+
+Seen something that connects with your work? **[Tell me what you are exploring →](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration&utm_source=github&utm_medium=profile)**. For an ongoing connection, [find me on LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) or follow this GitHub profile for future work.
 
 ## Proof before promise
 
@@ -67,3 +73,5 @@ If you are working on **operational decision support, supply-chain early warning
 
 <!-- Public profile conversion baseline: 2026-09-16. -->
 
+
+> Portfolio authority: [one current JARVIS SSOT](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json). This document describes this repository only; it cannot override the canonical architecture or establish live deployment status.
