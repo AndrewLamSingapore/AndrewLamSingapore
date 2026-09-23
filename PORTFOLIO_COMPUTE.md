@@ -1,4 +1,4 @@
-> Portfolio authority: [one current JARVIS SSOT](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json). This document describes this repository only; it cannot override the canonical architecture or establish live deployment status.
+> Portfolio status authority: [STATUS.md](https://github.com/AndrewLamSingapore/prime/blob/main/STATUS.md) in the private PRIME repository. The [operational manifest](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json) is a machine-readable component reference only. This document describes the intended architecture and cannot establish live deployment status.
 
 # Portfolio computational architecture
 

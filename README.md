@@ -1,77 +1,62 @@
 <p align="center">
-  <a href="https://authority-engine-app.vercel.app/">
+  <a href="https://authority-engine-app.vercel.app/?utm_source=github&utm_medium=profile&utm_campaign=profile_evidence">
     <img src="./assets/profile-banner.svg" alt="Andrew Lam — Operations Intelligence. Earlier signals. Better decisions." width="100%" />
   </a>
 </p>
 
-## I help complex operations see risk earlier—and decide with evidence.
+# See the problem before the KPI turns red.
 
-I combine **20+ years in supply chain, warehousing, cold chain, container operations and frontline execution** with analytics and applied AI. I build practical intelligence for leaders who need earlier warning, clearer trade-offs and decisions they can defend.
+I'm **Andrew Lam**, based in Singapore. I combine **20+ years in logistics, warehousing, supply chain and container operations** with analytics and applied AI. My work connects operating signals to the decisions people need to make next.
 
-> **The question behind my work:** Can we see deterioration before the KPI turns red?
+**[Inspect the evidence →](https://authority-engine-app.vercel.app/evidence?utm_source=github&utm_medium=profile&utm_campaign=profile_evidence)** · [Discuss an operations problem](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration&utm_source=github&utm_medium=profile) · [Connect on LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
 
-[**See the evidence →**](https://authority-engine-app.vercel.app/) · [**Explore the casework →**](https://authority-engine-app.vercel.app/insights) · [**Discuss a real problem →**](https://authority-engine-app.vercel.app/contact?source=github)
+Open to **operations excellence, operational analytics and supply-chain roles**, alongside practical collaborations in decision support and applied AI.
 
-[**Try the JARVIS PRIME decision walkthrough →**](https://authority-engine-app.vercel.app/jarvis?utm_source=github&utm_medium=profile)
+## Start with what the work can show
 
-**Open to:** operations leadership · operational transformation · analytics and early-warning systems · serious governed-AI collaborations
-
----
-
-## Start with a sky. Stay for a conversation.
-
-[![The Sky Tablet — explore an ancient city and its night sky](https://raw.githubusercontent.com/AndrewLamSingapore/sky-tablet/main/sky-atmosphere.webp)](https://sky-tablet.vercel.app/)
-
-**[Enter The Sky Tablet →](https://sky-tablet.vercel.app/)** — a cinematic journey from clay tablets to an open sky. One of my experiments in making complex ideas tangible.
-
-Seen something that connects with your work? **[Tell me what you are exploring →](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration&utm_source=github&utm_medium=profile)**. For an ongoing connection, [find me on LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) or follow this GitHub profile for future work.
-
-## Proof before promise
-
-| **20+ years** | **391 jobs** | **S$75,720** | **1,800 scenarios** |
-|---|---|---|---|
-| Real operating experience | Anonymised container-operation records | Recorded revenue across 7 reporting periods | AI-assisted synthetic cold-chain risk records |
-
-Real operating evidence, controlled demonstrations and experimental products are labelled separately. **A prototype is not proof, and a model is not reality.**
-
-## Choose your route
-
-| If you want to… | Start here |
-|---|---|
-| Assess my operating depth and analytical capability | [**Review the evidence in Authority Engine**](https://authority-engine-app.vercel.app/) |
-| Inspect the code, decisions and evidence boundaries | [**Explore the repositories**](https://github.com/AndrewLamSingapore?tab=repositories) |
-| Discuss an operations problem, role or collaboration | [**Start a conversation**](https://authority-engine-app.vercel.app/contact?source=github) |
-
-## Selected systems
-
-| System | What it demonstrates | Explore |
+| Evidence | What you can inspect | What it supports |
 |---|---|---|
-| **JARVIS PRIME** | Try an illustrative decision walkthrough and inspect a 21-role AI coordination design; current ABEX runtime acceptance remains unverified | [Explore](https://authority-engine-app.vercel.app/jarvis) · [Discuss a use case](https://authority-engine-app.vercel.app/contact?source=jarvis&intent=collaboration) |
-| **Authority Engine** | An evidence-led portfolio connecting real operating experience with inspectable analytics and applied AI | [Live](https://authority-engine-app.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/authority-engine) |
-| **VELYQUA 维澜** | Software-first, hardware-agnostic water intelligence; observation quality and real-water validation are evidence-gated | [Live](https://velyqua.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/velyqua) |
-| **The Portal** | An AI-assisted knowledge system that turns encounters into connections, questions and testable experiments | [Live](https://the-portal-ten.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/the-portal) |
-| **Living Worlds** | A persistent AI-native world with governed reasoning and server-authoritative state | [Experience](https://game-platform-wine-nine.vercel.app/) |
-| **The Sky Tablet** | Interactive exploration of Mesopotamian astronomy and cuneiform, with explicit scholarly limits | [Explore](https://sky-tablet.vercel.app/) · [Code](https://github.com/AndrewLamSingapore/sky-tablet) |
+| **Real operating records** | [391 anonymised container jobs · 7 reporting periods · S$75,720 recorded revenue](https://authority-engine-app.vercel.app/maxwell-excel?utm_source=github&utm_medium=profile) | Management visibility from actual operating records. Revenue is a dataset figure, not a claim of profit or savings. |
+| **Synthetic demonstration** | [1,800 AI-assisted cold-chain records · 6 warehouse zones](https://authority-engine-app.vercel.app/evidence?grade=synth&utm_source=github&utm_medium=profile) | A method for combining weak signals into an earlier risk picture. Operational effectiveness is not established by synthetic data. |
+| **Design concept** | [Supply chain control tower](https://authority-engine-app.vercel.app/evidence?grade=concept&utm_source=github&utm_medium=profile) | A design connecting supplier, inventory and operating signals. It is not a shipped control tower. |
 
-## The operating method
+## Four ways to find a better decision
 
 **OBSERVE → CONNECT → ANTICIPATE → DECIDE → ACT → LEARN**
 
-Individual signals can be weak, late or misleading. Their relationships can reveal something useful earlier. That thesis connects my work across physical operations, analytics, edge sensing, knowledge systems and experimental products.
+| Lens | Question to ask | Practical next step |
+|---|---|---|
+| **Signal convergence** | Which small changes become meaningful together? | Compare the signals against the same time window before raising an alert. |
+| **Bottleneck first** | Where does work wait, and what constrains the next handover? | Investigate the queue before optimising an already fast step. |
+| **Inversion** | How could this decision fail even if the dashboard looks healthy? | Look for the missing measure, delayed feedback or unsupported assumption. |
+| **Smallest useful experiment** | What observation would change the decision? | Define the threshold and test one assumption before expanding the system. |
 
-**Operations** — supply chain · warehousing · cold chain · container planning · inventory · manpower · process improvement<br>
-**Analytics** — KPI design · management reporting · Power BI · SQL · analytical modelling · root-cause analysis<br>
-**Intelligence systems** — weak-signal detection · edge sensing · knowledge graphs · governed AI · product prototyping · decision support
+These are thinking tools, with evidence to examine and assumptions to challenge. [Explore the decision frameworks →](https://authority-engine-app.vercel.app/frameworks?utm_source=github&utm_medium=profile)
 
-## Bring me the difficult operating problem.
+## Explore the connected work
 
-If you are working on **operational decision support, supply-chain early warning, operations excellence or governed AI**, I want to hear the real constraint—not the polished version. I value useful exchanges, evidence-led collaboration and relationships that compound over time.
+Authority Engine is the public starting point. Each product has its own purpose and evidence limits; a public walkthrough does not establish private runtime readiness.
 
-[**Review my evidence**](https://authority-engine-app.vercel.app/) · [**Send a direct inquiry**](https://authority-engine-app.vercel.app/contact?source=github) · [**Connect on LinkedIn**](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719)
+| System | Start here | Evidence boundary |
+|---|---|---|
+| **[Authority Engine](https://authority-engine-app.vercel.app/)** | Operating evidence, casework and the ideas behind the builds. [Code](https://github.com/AndrewLamSingapore/authority-engine) | Real records, synthetic demonstrations and concepts are labelled separately. |
+| **[JARVIS PRIME](https://authority-engine-app.vercel.app/jarvis?utm_source=github&utm_medium=profile)** | Follow an illustrative AI decision walkthrough. | Private system in development; the walkthrough is not a live execution session. |
+| **[The Portal](https://the-portal-ten.vercel.app/)** | Explore knowledge, artifacts and connections that suggest new questions. [Code](https://github.com/AndrewLamSingapore/the-portal) | Public discovery prototype; private reports require authentication. |
+| **[VELYQUA 维澜](https://velyqua.vercel.app/)** | Explore water intelligence and the quality of observations. [Code](https://github.com/AndrewLamSingapore/velyqua) | Working software; real-water and sensor validation remain separate evidence gates. |
+| **[Living Worlds · Game Platform](https://game-platform-wine-nine.vercel.app/)** | Explore an interactive world shaped by choices and persistent state. [Code](https://github.com/AndrewLamSingapore/game-platform) | Working game prototype; public software does not establish production-scale reliability. |
+| **[The Sky Tablet](https://sky-tablet.vercel.app/)** | Travel from cuneiform tablets to an interactive ancient night sky. [Code](https://github.com/AndrewLamSingapore/sky-tablet) | Educational prototype with explicit historical and astronomical limits. |
 
-<sub>Singapore · Operations expertise first; technology as leverage.</sub>
+## Bring a decision that keeps arriving too late.
 
-<!-- Public profile conversion baseline: 2026-09-16. -->
+Tell me **what is happening, who needs to decide, and what makes the decision difficult**. That is a useful starting point for a role, an operating problem or a collaboration.
 
+[**Discuss your operating problem →**](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration&utm_source=github&utm_medium=profile) · [**Hiring? Start here →**](https://authority-engine-app.vercel.app/contact?source=github&intent=role&utm_source=github&utm_medium=profile)
 
-> Portfolio authority: [one current JARVIS SSOT](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json). This document describes this repository only; it cannot override the canonical architecture or establish live deployment status.
+<sub>Singapore · Operations experience, inspectable evidence and practical systems.</sub>
+
+<details>
+<summary>Maintainer references</summary>
+
+Portfolio status authority: [STATUS.md](https://github.com/AndrewLamSingapore/prime/blob/main/STATUS.md) in the private PRIME repository. The [operational manifest](https://github.com/AndrewLamSingapore/prime/blob/main/governance/operational-manifest.json) is a machine-readable component reference only. These links require repository access; public visitors can inspect the evidence and code linked above. This profile does not establish current private runtime or deployment status.
+
+</details>
