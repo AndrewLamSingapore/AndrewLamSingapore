@@ -46,6 +46,17 @@ Authority Engine is the public starting point. Each product has its own purpose 
 | **[Living Worlds · Game Platform](https://game-platform-wine-nine.vercel.app/)** | Explore an interactive world shaped by choices and persistent state. [Code](https://github.com/AndrewLamSingapore/game-platform) | Working game prototype; public software does not establish production-scale reliability. |
 | **[The Sky Tablet](https://sky-tablet.vercel.app/)** | Travel from cuneiform tablets to an interactive ancient night sky. [Code](https://github.com/AndrewLamSingapore/sky-tablet) | Educational prototype with explicit historical and astronomical limits. |
 
+## Recent repository changes · 3 October 2026
+
+These are dated engineering observations, not a claim of customer validation or a blanket release of every capability.
+
+- **[Authority Engine](https://github.com/AndrewLamSingapore/authority-engine):** a provenance privacy guard is on `main` ([review #85](https://github.com/AndrewLamSingapore/authority-engine/pull/85)); cloud checks and the public service health check passed. The authenticated editorial write path was not exercised in production during this check.
+- **[VELYQUA](https://github.com/AndrewLamSingapore/velyqua):** an alert that has no durable connector now reports *authorized, not executed*, rather than claiming success ([review #76](https://github.com/AndrewLamSingapore/velyqua/pull/76)). Cloud checks and public service health passed; actual alert delivery remains unverified. A separate web-storage disclosure correction is [under review](https://github.com/AndrewLamSingapore/velyqua/pull/77).
+- **[Living Worlds / Game Platform](https://github.com/AndrewLamSingapore/game-platform):** the runtime dependency lockfile now selects patched `undici` 7.29.1 ([review #36](https://github.com/AndrewLamSingapore/game-platform/pull/36)); the turn-reservation safety fix is [under review](https://github.com/AndrewLamSingapore/game-platform/pull/35), not live Edge behavior.
+- **[The Portal](https://github.com/AndrewLamSingapore/the-portal)** and **[The Sky Tablet](https://github.com/AndrewLamSingapore/sky-tablet)** remain public prototypes with the evidence limits in the table above. Their code and live experience should be judged separately from these other repositories' changes.
+
+This [profile and shared-contract repository](https://github.com/AndrewLamSingapore/AndrewLamSingapore) is the seventh accessible source surface, not a seventh product. JARVIS PRIME remains private; its public walkthrough is illustrative and does not expose the private runtime. GitHub checks, a merge, and a reachable page each establish different things.
+
 ## Bring a decision that keeps arriving too late.
 
 Tell me **what is happening, who needs to decide, and what makes the decision difficult**. That is a useful starting point for a role, an operating problem or a collaboration.
