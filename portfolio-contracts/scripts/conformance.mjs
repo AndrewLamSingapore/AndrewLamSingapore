@@ -44,7 +44,7 @@ const reasoning = {
   schema_version: '1.0.0',
 };
 
-assert.equal(CONTRACT_VERSION, '2.0.0');
+assert.equal(CONTRACT_VERSION, '3.0.0');
 for (const [name, result] of [
   ['action', validateActionEnvelope(action)],
   ['event envelope', validateEventEnvelope({tenant_id:'personal',event_type:event.event_type,source:event.source,payload:event.payload,correlation_id:event.correlation_id,occurred_at:timestamp,schema_version:'1.0.0'})],
