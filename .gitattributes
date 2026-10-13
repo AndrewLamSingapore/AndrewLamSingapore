@@ -1,0 +1,4 @@
+# Generated contract hashes and the generator compare canonical LF bytes.
+# Preserve those bytes when Windows enables core.autocrlf.
+/portfolio-contracts/generated/** text eol=lf
+/portfolio-contracts/manifest.json text eol=lf
