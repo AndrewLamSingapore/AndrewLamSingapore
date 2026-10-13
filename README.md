@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://authority-engine-app.vercel.app/">
-    <img src="./assets/profile-banner.svg" alt="Andrew Lam — operations, supply chain, analytics and applied AI. Singapore." width="100%" />
+    <img src="https://raw.githubusercontent.com/AndrewLamSingapore/AndrewLamSingapore/bd31d162f335c1e0b09bf032830591b317062e5a/assets/profile-banner.svg" alt="Andrew Lam — operations, supply chain, analytics and applied AI. Singapore." width="100%" />
   </a>
 </p>
 
@@ -63,3 +63,4 @@ Share the operating problem, the decision that needs to be made and the outcome 
 Portfolio status reference: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md) in the private ORQEVIA repository. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated component and observation reference only. Each product owns its source, configuration, contracts and domain records. These links require repository access; public visitors can inspect the evidence and code linked above. This profile does not establish current private runtime or deployment status.
 
 </details>
+
