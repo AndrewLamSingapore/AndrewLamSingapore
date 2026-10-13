@@ -75,6 +75,6 @@ Tell me **what is happening, who needs to decide, and what makes the decision di
 <details>
 <summary>Maintainer references</summary>
 
-Portfolio status authority: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md) in the private ORQEVIA repository. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a machine-readable component reference only. These links require repository access; public visitors can inspect the evidence and code linked above. This profile does not establish current private runtime or deployment status.
+Portfolio status reference: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md) in the private ORQEVIA repository. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated component and observation reference only. Each product owns its source, configuration, contracts and domain records. These links require repository access; public visitors can inspect the evidence and code linked above. This profile does not establish current private runtime or deployment status.
 
 </details>
