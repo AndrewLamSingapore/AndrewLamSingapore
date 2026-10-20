@@ -6,6 +6,10 @@
 
 # Andrew Lam
 
+![Singapore](https://img.shields.io/badge/Singapore-SGT-0A7E8C?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-20%2B_years-1F5A73?style=flat-square)
+![Open to roles](https://img.shields.io/badge/Open_to_roles-Yes-2E8B57?style=flat-square)
+
 **Operations Transformation & Analytics · Supply Chain · Applied AI**<br>
 Singapore
 
@@ -82,7 +86,6 @@ Share the operating problem, the decision that needs to be made and the outcome 
 <details>
 <summary>Maintainer references</summary>
 
-Portfolio status reference: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md) in the ORQEVIA repository. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated component and observation reference only. Each product owns its source, configuration, contracts and domain records. Reference review: ORQEVIA main at `dbf3175e178f53e514ae2df219ff8157b9f03faf` (19 October 2026). Source review does not establish live runtime status. This profile does not establish current private runtime or deployment status.
+Portfolio status reference: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md) in the public ORQEVIA repository. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated component and observation reference only. Each product owns its source, configuration, contracts and domain records. This profile does not establish current private runtime or deployment status.
 
 </details>
-
