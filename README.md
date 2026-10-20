@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://authority-engine-app.vercel.app/">
-    <img src="https://raw.githubusercontent.com/AndrewLamSingapore/AndrewLamSingapore/bd31d162f335c1e0b09bf032830591b317062e5a/assets/profile-banner.svg" alt="Andrew Lam — operations, supply chain, analytics and applied AI. Singapore." width="100%" />
+    <img src="assets/profile-banner.svg" alt="Andrew Lam — operations, supply chain, analytics and applied AI. Singapore." width="100%" />
   </a>
 </p>
 
@@ -39,6 +39,10 @@ My focus is operational analysis, KPI reporting, root-cause analysis, workforce 
 - **Practical analytics:** turn records into useful measures, traceable calculations and decisions grounded in evidence.
 - **Decision-support systems:** build tools that keep observations, recommendations and executed actions distinct.
 - **Continuous improvement:** identify the constraint, test a useful change and learn from the result.
+
+## Start exploring
+
+**For operations and analytics:** inspect the [operating evidence](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
 
 ## Selected work
 
