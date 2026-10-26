@@ -21,6 +21,25 @@ I build and document independent software projects connecting operational experi
 
 [**Explore my portfolio →**](https://authority-engine-app.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) · [Contact](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration)
 
+## Find your starting point
+
+**For operations and analytics:** inspect the [operating evidence](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
+
+## Selected work
+
+Six independent projects. Open a public experience or inspect its owning source.
+
+| Project | Focus |
+| --- | --- |
+| **[Authority Engine](https://authority-engine-app.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/authority-engine) | Public operations portfolio: operating records, analytical casework and decision frameworks. |
+| **[ORQEVIA · 奥启维亚](https://authority-engine-app.vercel.app/orqevia)**<br>[Source](https://github.com/AndrewLamSingapore/orqevia) | AI orchestration and explainable decision support, evolved from JARVIS PRIME. Public source and a curated walkthrough; authenticated runtime access and deployment acceptance are separate. |
+| **[VELYQUA · 维澜](https://velyqua.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/velyqua) | Software prototype for living-water observations and explainable decisions. Real-water and sensor validation are separate work. |
+| **[The Portal](https://the-portal-ten.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/the-portal) | Discovery prototype connecting knowledge, artifacts and questions. |
+| **[Living Worlds](https://game-platform-wine-nine.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/game-platform) | Interactive game prototype exploring choices and persistent state. |
+| **[The Sky Tablet](https://sky-tablet.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/sky-tablet) | Educational experience connecting cuneiform tablets with an interactive ancient night sky. |
+
+[All repositories](https://github.com/AndrewLamSingapore?tab=repositories) · [Public technical discussions](https://github.com/AndrewLamSingapore/orqevia/discussions)
+
 ## Credentials
 
 | Credential | Issuer | Verification |
@@ -43,21 +62,6 @@ My focus is operational analysis, KPI reporting, root-cause analysis, workforce 
 - **Practical analytics:** turn records into useful measures, traceable calculations and decisions grounded in evidence.
 - **Decision-support systems:** build tools that keep observations, recommendations and executed actions distinct.
 - **Continuous improvement:** identify the constraint, test a useful change and learn from the result.
-
-## Start exploring
-
-**For operations and analytics:** inspect the [operating evidence](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
-
-## Selected work
-
-| Project | Focus |
-| --- | --- |
-| **[Authority Engine](https://authority-engine-app.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/authority-engine) | Public operations portfolio: operating records, analytical casework and decision frameworks. |
-| **[ORQEVIA · 奥启维亚](https://authority-engine-app.vercel.app/orqevia)**<br>[Source](https://github.com/AndrewLamSingapore/orqevia) | AI orchestration and explainable decision support, evolved from JARVIS PRIME. Public source and a curated walkthrough; authenticated runtime access and deployment acceptance are separate. |
-| **[VELYQUA · 维澜](https://velyqua.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/velyqua) | Software prototype for living-water observations and explainable decisions. Real-water and sensor validation are separate work. |
-| **[The Portal](https://the-portal-ten.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/the-portal) | Discovery prototype connecting knowledge, artifacts and questions. |
-| **[Living Worlds](https://game-platform-wine-nine.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/game-platform) | Interactive game prototype exploring choices and persistent state. |
-| **[The Sky Tablet](https://sky-tablet.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/sky-tablet) | Educational experience connecting cuneiform tablets with an interactive ancient night sky. |
 
 ## Evidence you can inspect
 
