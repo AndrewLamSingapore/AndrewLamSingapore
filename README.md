@@ -10,20 +10,20 @@
 ![Experience](https://img.shields.io/badge/Experience-20%2B_years-1F5A73?style=flat-square)
 ![Open to roles](https://img.shields.io/badge/Open_to_roles-Yes-2E8B57?style=flat-square)
 
-**Operations Transformation & Analytics · Supply Chain · Applied AI**<br>
+**Operations Transformation & Analytics · Supply Chain & Logistics · Process Improvement**<br>
 Singapore
 
-I bring **20+ years of experience in logistics, warehousing, supply chain and container operations** to practical analytics and decision-support systems. My focus is making operational information easier to understand, risks easier to spot and decisions easier to explain.
+I’ve spent **20+ years in supply chain and logistics**, across cold-chain warehousing, grocery distribution, container operations and international freight forwarding. I use Power BI, SQL, Excel and Python to investigate delays and inventory discrepancies and give operations teams clearer information for planning and process improvement.
 
 I completed **Applied AI and Data Analytics under RISE by BCG U in October 2026**, with **BCG RISE Capstone Top 2**, **Python Expert** and **Machine Learning Expert** credentials.
 
-I build and document independent software projects connecting operational experience with analytics, AI orchestration and interactive experiences. Start with the evidence below, then explore the code.
+I’m currently studying **Cloud Support & DevOps** through the SkillsFuture Career Transition Programme delivered by Generation Singapore in partnership with Temasek Polytechnic. The training covers Linux, Python, Microsoft Azure and automation. I also build independent projects in analytics and AI orchestration.
 
 [**Explore my portfolio →**](https://authority-engine-app.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) · [Contact](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration)
 
 ## Find your starting point
 
-**For operations and analytics:** inspect the [operating evidence](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
+**For operations and analytics:** start with the [dashboard covering 391 anonymised container jobs](https://authority-engine-app.vercel.app/maxwell-excel) or browse the [operations portfolio](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
 
 ## Selected work
 
