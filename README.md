@@ -38,7 +38,7 @@ Six independent projects. Open a public experience or inspect its owning source.
 | **[Living Worlds](https://game-platform-wine-nine.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/game-platform) | Interactive game prototype exploring choices and persistent state. |
 | **[The Sky Tablet](https://sky-tablet.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/sky-tablet) | Educational experience connecting cuneiform tablets with an interactive ancient night sky. |
 
-[All repositories](https://github.com/AndrewLamSingapore?tab=repositories) · [Public technical discussions](https://github.com/AndrewLamSingapore/orqevia/discussions)
+[All repositories](https://github.com/AndrewLamSingapore?tab=repositories) · [Profile and portfolio issues](https://github.com/AndrewLamSingapore/AndrewLamSingapore/issues) · [Portfolio discussions](https://github.com/AndrewLamSingapore/AndrewLamSingapore/discussions) · [Wiki](https://github.com/AndrewLamSingapore/AndrewLamSingapore/wiki)
 
 ## Credentials
 
