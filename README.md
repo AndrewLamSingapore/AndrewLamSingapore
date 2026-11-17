@@ -6,24 +6,24 @@
 
 # Andrew Lam
 
-![Singapore](https://img.shields.io/badge/Singapore-SGT-0A7E8C?style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-20%2B_years-1F5A73?style=flat-square)
-![Open to roles](https://img.shields.io/badge/Open_to_roles-Yes-2E8B57?style=flat-square)
+**Operations Excellence · Supply Chain & Logistics · Operations Analytics**  
+Singapore | 20+ years in cold-chain warehousing, grocery distribution, container operations and international freight forwarding
 
-**Operations Transformation & Analytics · Supply Chain & Logistics · Process Improvement**<br>
-Singapore
+I use Excel, Power BI, SQL and Python to turn operating records into better information for planning, inventory control and process improvement.
 
-I’ve spent **20+ years in supply chain and logistics**, across cold-chain warehousing, grocery distribution, container operations and international freight forwarding. I use Power BI, SQL, Excel and Python to investigate delays and inventory discrepancies and give operations teams clearer information for planning and process improvement.
+[Operations portfolio](https://authority-engine-app.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719/) · [Hiring enquiries](https://authority-engine-app.vercel.app/contact?source=github&intent=role)
 
-I completed **Applied AI and Data Analytics under RISE by BCG U in October 2026**, with **BCG RISE Capstone Top 2**, **Python Expert** and **Machine Learning Expert** credentials.
+## Evidence you can inspect
 
-I’m currently studying **Cloud Support & DevOps** through the SkillsFuture Career Transition Programme delivered by Generation Singapore in partnership with Temasek Polytechnic. The training covers Linux, Python, Microsoft Azure and automation. I also build independent projects in analytics and AI orchestration.
+| Case study | What the work shows |
+| --- | --- |
+| **[Container Operations Performance Dashboard](https://authority-engine-app.vercel.app/maxwell-excel)** | Excel analysis of **391 anonymised container-labour jobs** across **seven reporting periods** and **S$75,720 in recorded revenue**. Review job volume, service mix, amendments and the data available for workforce planning. |
+| **[Cold-Chain Risk Intelligence](https://authority-engine-app.vercel.app/evidence?grade=synth)** | Power BI, SQL and Python demonstration using **1,800 synthetic records across six warehouse zones**. Explore temperature trends, processing delays and where to investigate operational risk. |
+| **[Supply Chain Control Tower](https://authority-engine-app.vercel.app/evidence?grade=concept)** | Design concept for linking supplier, inventory and operating signals to support cross-functional decisions. |
 
-[**Explore my portfolio →**](https://authority-engine-app.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/lam-teck-sing-andrew-79886719) · [Contact](https://authority-engine-app.vercel.app/contact?source=github&intent=collaboration)
+## Training
 
-## Find your starting point
-
-**For operations and analytics:** start with the [dashboard covering 391 anonymised container jobs](https://authority-engine-app.vercel.app/maxwell-excel) or browse the [operations portfolio](https://authority-engine-app.vercel.app/evidence). **For interactive experiences:** try [Living Worlds](https://game-platform-wine-nine.vercel.app/) or [The Sky Tablet](https://sky-tablet.vercel.app/).
+I completed **Applied AI and Data Analytics through RISE by BCG U** in October 2026, with **BCG RISE Capstone Top 2**, **Python Expert** and **Machine Learning Expert** credentials. I am studying Cloud Support & DevOps through the SkillsFuture Career Transition Programme delivered by Generation Singapore in partnership with Temasek Polytechnic, covering Linux, Python, Microsoft Azure and automation.
 
 ## Selected work
 
@@ -62,14 +62,6 @@ My focus is operational analysis, KPI reporting, root-cause analysis, workforce 
 - **Practical analytics:** turn records into useful measures, traceable calculations and decisions grounded in evidence.
 - **Decision-support systems:** build tools that keep observations, recommendations and executed actions distinct.
 - **Continuous improvement:** identify the constraint, test a useful change and learn from the result.
-
-## Evidence you can inspect
-
-- **Real operating records:** [391 anonymised container jobs across 7 reporting periods](https://authority-engine-app.vercel.app/maxwell-excel), with **S$75,720 in recorded dataset revenue**. This is an operating-record figure, not a claim of profit, savings or measured improvement.
-- **Synthetic demonstration:** [1,800 cold-chain records across 6 warehouse zones](https://authority-engine-app.vercel.app/evidence?grade=synth), used to explore how weak signals can reveal operational risk.
-- **Design concept:** [a supply-chain control tower](https://authority-engine-app.vercel.app/evidence?grade=concept), connecting supplier, inventory and operating signals.
-
-The portfolio labels real records, synthetic demonstrations and concepts separately. Public prototypes demonstrate the work; their scope is described alongside each project.
 
 ## How I work
 
