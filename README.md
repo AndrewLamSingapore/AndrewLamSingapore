@@ -28,16 +28,35 @@ Pick a project, try a public experience, or inspect its source.
 
 | Project | What you can explore |
 | --- | --- |
-| **[VELYQUA · 维澜](https://velyqua-workspace.five12345.chatgpt.site/)**<br>[Open the app](https://velyqua.vercel.app/) · [Source](https://github.com/AndrewLamSingapore/velyqua) | **Intelligence for living water.** Record manual water tests, keeper observations and care history. The Architecture Studio explains the system, cloud deployment choices and research direction. |
+| **[VELYQUA · 维澜](https://velyqua-website.vercel.app/)**<br>[Open the app](https://velyqua.vercel.app/) · [Architecture Studio](https://velyqua-workspace.five12345.chatgpt.site/) · [App source](https://github.com/AndrewLamSingapore/velyqua) · [Website source](https://github.com/AndrewLamSingapore/velyqua-website) | **Intelligence for living water.** Record manual water tests, keeper observations and care history. The cinematic product site introduces the workflow; the Architecture Studio explains the system and deployment choices. Animal–environment intelligence remains a research direction. |
 | **[ORQEVIA · 奥启维亚](https://authority-engine-app.vercel.app/orqevia)**<br>[Source](https://github.com/AndrewLamSingapore/orqevia) | **Work you can inspect.** Try a curated decision walkthrough. The underlying AI orchestration workspace explores traceable work, durable memory and recoverable missions; operational execution uses authenticated access. |
 | **[Authority Engine](https://authority-engine-app.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/authority-engine) | **Operations intelligence and applied AI.** Explore my operating evidence, analytical casework, decision frameworks and project portfolio. |
-| **[THE PORTAL](https://the-portal-ten.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/the-portal) | **Follow an idea somewhere unexpected.** Explore an AI-assisted archive, knowledge graph, evidence labels, source trails and cloud deployment guide. |
+| **[THE PORTAL](https://the-portal-ten.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/the-portal) | **From ideas to cumulative discovery.** Try guided solo discovery, explore collective discussion rooms and inspect hybrid retrieval, hypothesis histories and living-engine runs in the open Observatory. Independent scientific and multi-user validation remain pending. |
 | **[Living Worlds](https://game-platform-wine-nine.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/game-platform) | **Your choices. A world that remembers.** Preview three illustrated RPG openings and explore a prototype built around persistent campaigns and deterministic rules. |
 | **[The Sky Tablet](https://sky-tablet.vercel.app/)**<br>[Source](https://github.com/AndrewLamSingapore/sky-tablet) | **An ancient city. An open sky.** Journey through a Three.js/WebGL storytelling experiment connecting Mesopotamia, cuneiform and astronomy, with historical interpretation clearly labelled. |
 
 VELYQUA's current software supports aquarium records and manual observations. Physical sensor performance, AI-assisted monitoring and intervention outcomes remain development and validation goals. Its educational walkthrough keeps synthetic examples separate from aquarium records.
 
 [Browse all repositories](https://github.com/AndrewLamSingapore?tab=repositories)
+
+<details>
+<summary><strong>All eight public repositories</strong></summary>
+
+| Repository | Purpose | Public destination |
+| --- | --- | --- |
+| [AndrewLamSingapore](https://github.com/AndrewLamSingapore/AndrewLamSingapore) | Profile and shared contracts | [Andrew Lam · GitHub profile](https://authority-engine-app.vercel.app/) |
+| [authority-engine](https://github.com/AndrewLamSingapore/authority-engine) | Portfolio and evidence hub | [Authority Engine](https://authority-engine-app.vercel.app/) |
+| [velyqua](https://github.com/AndrewLamSingapore/velyqua) | Aquarium software | [VELYQUA · Application](https://velyqua.vercel.app/) |
+| [velyqua-website](https://github.com/AndrewLamSingapore/velyqua-website) | Product introduction | [VELYQUA · Product website](https://velyqua-website.vercel.app/) |
+| [the-portal](https://github.com/AndrewLamSingapore/the-portal) | Discovery and research prototype | [THE PORTAL](https://the-portal-ten.vercel.app/) |
+| [orqevia](https://github.com/AndrewLamSingapore/orqevia) | AI orchestration workspace | [ORQEVIA](https://authority-engine-app.vercel.app/orqevia) |
+| [game-platform](https://github.com/AndrewLamSingapore/game-platform) | Persistent role-playing prototype | [Living Worlds](https://game-platform-wine-nine.vercel.app/) |
+| [sky-tablet](https://github.com/AndrewLamSingapore/sky-tablet) | Interactive cultural storytelling | [The Sky Tablet](https://sky-tablet.vercel.app/) |
+
+[Browse repository profiles on Authority Engine](https://authority-engine-app.vercel.app/#repositories). Six main projects are supported by the separate VELYQUA product-site and GitHub-profile repositories.
+
+</details>
+
 
 ## What I bring
 
@@ -76,8 +95,8 @@ Bring the operating problem, the decision you need to make and the change you wa
 <details>
 <summary>Maintainer references</summary>
 
-Portfolio status reference: [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md). The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated component and observation reference. Each product owns its source, configuration, contracts and domain records. This profile does not establish current private runtime or deployment status.
+Current ORQEVIA source: [ORQEVIA-CURRENT-STATE.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/ORQEVIA-CURRENT-STATE.md), reached through the portfolio pointer [STATUS.md](https://github.com/AndrewLamSingapore/orqevia/blob/main/STATUS.md). Each product owns its source, configuration, contracts and domain records. The [operational manifest](https://github.com/AndrewLamSingapore/orqevia/blob/main/governance/operational-manifest.json) is a dated historical reference. Source, CI, deployment and runtime acceptance are separate evidence.
 
-Source references reviewed for this profile refresh on 22 November 2026: [VELYQUA 1780a07](https://github.com/AndrewLamSingapore/velyqua/commit/1780a07b36a7166dd3e70bd92d5a03f28b279a28) and [ORQEVIA ced0853](https://github.com/AndrewLamSingapore/orqevia/commit/ced0853b9bd903ea6b2b82bde8a7aca7de73abcb). Source review, live deployment, physical validation and commercial acceptance have separate evidence requirements.
+Public profile review: 26 November 2026. Owning sources reviewed: [VELYQUA 017393c](https://github.com/AndrewLamSingapore/velyqua/commit/017393cd79f98ab9b9b5194643991b033389acf2), [VELYQUA website 446b074](https://github.com/AndrewLamSingapore/velyqua-website/commit/446b07420ba53ef9a65b6e132f1c4ea14e0005f7), [THE PORTAL b463131](https://github.com/AndrewLamSingapore/the-portal/commit/b463131ba587a55e78b54923f9c4904224893af3) and [ORQEVIA ced0853](https://github.com/AndrewLamSingapore/orqevia/commit/ced0853b9bd903ea6b2b82bde8a7aca7de73abcb). Source review, live deployment, physical validation and commercial acceptance have separate evidence requirements.
 
 </details>
